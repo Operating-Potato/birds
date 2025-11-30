@@ -8,14 +8,4 @@ github_username: Operating-Potato
 theme: minima
 plugins:
   - jekyll-feed
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "species"
-      bird_category: "Birds"
-      binomial_name: "Aves sp."
-      birdcode: "BIRD"
-      minibird-type: "gif"
+

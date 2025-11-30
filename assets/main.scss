@@ -115,6 +115,7 @@ details[open] summary {
 #coolbird:hover {
     transform: rotate(360deg) scale(1.2);
 }
+
 .page-photo {
     width: 300px;
     float: right;
@@ -123,7 +124,7 @@ details[open] summary {
 }
 
 .left-image {
-    float:left;
+    float: left !important;
 }
 
 .minibird {
@@ -132,7 +133,7 @@ details[open] summary {
         height: auto;
         margin: 0 10px 0 0;
         image-rendering: pixelated;
-        float: left;
+        float: left !important;
 }
 
 @media only screen and (max-width: 600px) {
