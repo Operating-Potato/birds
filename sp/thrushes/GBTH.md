@@ -3,9 +3,8 @@ title: Grey-backed Thrush
 layout: species
 bird_type: Thrushes
 binomial_name: Turdus hortulorum
+birdcode: GBTH
 ---
-
-![image](images/GBTH.jpg){: .page-photo}
 
 A very melodious thrush. It looks vaguely like a robin, though I'd say all thrushes look like robins to some degree.
 

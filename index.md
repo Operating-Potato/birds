@@ -6,6 +6,7 @@ layout: page
 My personal accounts of all the bird species I have seen so far. New species will periodically be added.
 
 ___
+
 <details style="
 								margin: 10px 0 10px 0;
 								max-width: 500px;
@@ -40,7 +41,7 @@ ___
 	</ul>
 </details>
 ## Waterfowl {#waterfowl}
-* [Mallard (*Anas platyrhynchos*)](sp/MALL.html)
+* [Mallard (*Anas platyrhynchos*)](sp/waterfowl/MALL.html)
 
 ## Gamefowl {#gamefowl}
 
@@ -51,10 +52,10 @@ ___
 ## Rails {#rails}
 
 ## Shorebirds {#shorebirds}
-* [Willet (*Tringa semipalmata*)](sp/WILL.html)
+* [Willet (*Tringa semipalmata*)](sp/shorebirds/WILL.html)
 
 ## Gulls, Terns, & Skimmers {#gulls}
-* [Ring-billed Gull (*Larus delawarensis*)](sp/RBGU.html)
+* [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU.html)
 
 
 ## Cormorants & Anhingas {#cormorants}
@@ -62,7 +63,7 @@ ___
 ## Egrets & Herons {#herons}
 
 ## Pelicans, Ibises, & allies {#pelicans}
-* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/AWPE.html)
+* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/pelicans/AWPE.html)
 
 ## Vultures, Eagles, & Hawks {#hawks}
 
@@ -71,29 +72,36 @@ ___
 ## Woodpeckers {#woodpeckers}
 
 ## Jays, Magpies, Crows, etc. {#crows}
-* [Black-billed Magpie (*Pica hudsonia*)](sp/BBMA.html)
-* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/AWMA.html)
+
+* [Black-billed Magpie (*Pica hudsonia*)](sp/crows/BBMA.html)
+* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/crows/AWMA.html)
 
 ## Swallows {#swallows}
 
 ## Bulbuls, Old World Babblers, & Laughingthrushes {#bulbuls}
 
 ## Chickadees, Tits, & Titmice {#tits}
+- [Black-capped Chickadee (Poecile atricapillus)](sp/tits/BCCH)
 
 ## Nuthatches, Treecreepers, Wrens, & allies {#wrens}
 
 ## Thrushes {#thrushes}
-* [Grey-backed Thrush (*Turdus hortulorum*)](sp/GBTH)
+* [Grey-backed Thrush (*Turdus hortulorum*)](sp/thrushes/GBTH)
 
 ## Waxwings & allies {#waxwings}
+- [Bohemian Waxwing (*Bombycilla garrulus*)](sp/waxwings/BOWA)
 
 ## Old World Sparrows {#old-sparrows}
 
-## True Finches {#finches}
+## Finches & Euphonias {#finches}
+* [Evening Grosbeak (*Coccothraustes vespertinus*)](sp/finches/EVGR)
 
 ## New World Sparrows {#new-sparrows}
-* [Dark-eyed Junco (*Junco hyemalis*)](sp/DEJU.html)
+* [Dark-eyed Junco (*Junco hyemalis*)](sp/new-sparrows/DEJU.html)
 
 ## Icterids {#blackbirds}
 
 ## Wood Warblers {#wood-warblers}
+
+---
+<img src="/site_icon.jpg" style="width: 150px;" id="coolbird" alt="A picture of a magpie perched on a wire.">

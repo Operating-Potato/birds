@@ -3,9 +3,8 @@ title: Azure-winged Magpie
 layout: species
 bird_category: Jays, magpies, crows, etc.
 binomial_name: Cyanopica cyanus
+birdcode: AWMA
 ---
-
-![Image](images/AWMA.jpg){: .page-photo }
 
 Lively, neatly coloured, and bold, one of my favourite birds. Despite name, the Azure-winged and Iberian magpies are more related to the Canada Jay.
 

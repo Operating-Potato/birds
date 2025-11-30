@@ -3,9 +3,9 @@ title: Dark-eyed Junco
 bird_category: New World Sparrows
 binomial_name: Junco hyemalis
 layout: species
+birdcode: DEJU
 ---
 
-![Image](images/DEJU.jpg){: .page-photo}
 Small sparrow, also known as the snowbird. Runs around and eats seeds underneath spruce trees. Very adorable. 
 
 

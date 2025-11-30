@@ -3,9 +3,8 @@ title: Mallard
 layout: species
 bird_category: Waterfowl
 binomial_name: Anas platyrhynchos
+birdcode: MALL
 ---
-
-![image](images/MALL.jpg){: .page-photo}
 
 One of the most recognizable wild ducks (particularly in the Northern Hemisphere), mallards are also the ancestors of most domestic ducks. I see them often whenever I go to a lake or pond.
 

@@ -3,9 +3,8 @@ title: American White Pelican
 layout: species
 bird_category: Pelicans, Ibises, & allies
 binomial_name: Pelecanus erythrorhynchos
+birdcode: AWPE
 ---
-
-![Image](images/AWPE.jpg){: .page-photo}
 
 pelcan Mouth perfec t size for put baby in to n\ap! inside very Soft and Comfort baby sleep soundly put baby in Pelican Mouth. Put Baby In Pelican Mouth. no problems ever in peliccan mouth because good Shape and Support for baby neck weak of big baby head. Apelican Mouth yes a place for a baby put baby in pelican mouth can trust pelican for giveing good love to baby. friend pelican
 

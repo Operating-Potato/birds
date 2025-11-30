@@ -45,6 +45,14 @@ body {
     font-family: monospace;
 }
 .site-title {color:white !important;}
+.site-subtitle {
+    display:flex;
+    flex-wrap:wrap;
+    width: 100%;
+    h3 {
+        width: fit-content;
+    }
+}
 
 a.page-link {
     background-color:white !important;
@@ -55,6 +63,10 @@ a.page-link {
 
 @media only screen and (max-width: 600px) {
     a.page-link {border:none;}
+}
+
+.post-title {
+    line-height: 1.3em;
 }
 
 /*footer*/
@@ -92,11 +104,35 @@ details[open] summary {
 }
 
 /*images*/
+#coolbird {
+    border-radius: 10px;
+    position:static;
+    margin: 30px 0 20px 0;
+    transition: transform 1s;
+    position: relative;
+}
+
+#coolbird:hover {
+    transform: rotate(360deg) scale(1.2);
+}
 .page-photo {
     width: 300px;
     float: right;
     margin: 0 10px 10px 10px;
     box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
+}
+
+.left-image {
+    float:left;
+}
+
+.minibird {
+        position: relative;
+        width: 100px;
+        height: auto;
+        margin: 0 10px 0 0;
+        image-rendering: pixelated;
+        float: left;
 }
 
 @media only screen and (max-width: 600px) {
@@ -106,7 +142,10 @@ details[open] summary {
         object-fit: cover;
 
         float: none;
-        margin: 10px 0 10px 0;
+        margin: 10px 0 20px 0;
+    }
+    .full-height {
+        max-height: 100%;
     }
 }
 

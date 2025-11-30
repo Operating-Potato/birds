@@ -3,9 +3,9 @@ title: Ring-billed Gull
 layout: species
 bird_category: Gulls, Terns, & Skimmers
 binomial_name: Larus delawarensis
+birdcode: RBGU
+minibird_type: gif
 ---
-
-![image](images/RBGU.jpg){: .page-photo}
 
 Common summer resident of open fields and Walmart parking lots. Very numerous in central Alberta, though it migrates south in late fall and winter. Eats almost everything.
 

@@ -3,9 +3,8 @@ title: Willet
 layout: species
 bird_category: Shorebirds
 binomial_name: Tringa semipalmata
+birdcode: WILL
 ---
-
-![image](images/WILL.jpg){: .page-photo}
 
 First shorebird I ever saw; eats a lot of clams.
 

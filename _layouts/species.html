@@ -1,16 +1,27 @@
 ---
 layout: integration
 ---
-<p><a href="../" style="text-decoration: none;">← Go back</a></p>
+<p><a href="/birds/" style="text-decoration: none;">← Go back</a></p>
 <article class="post">
   <header class="post-header">
     <p style="opacity: 0.7;">{{ page.bird_category | strip_html }}</p>
     <h1 class="post-title">{{ page.title | escape }}</h1>
-    <h3><i>{{ page.binomial_name | strip_html }}</i></h3>
+    <div class="post-subtitle">
+      <h3><i>{{ page.binomial_name | strip_html }}</i></h3>
+    </div>
     <hr>
   </header>
 
   <div class="post-content">
+    <img class="page-photo" src="/birds/assets/page-images/main-images/{{ page.birdcode }}.jpg">
+
+    {% if page.minibird_type == "gif" %}
+        <img class="minibird" src="/birds/assets/minibirds/{{ page.birdcode }}.gif">
+    {% endif %}
+    {% if page.minibird_type == "png" %}
+        <img class="minibird" src="/birds/assets/minibirds/{{ page.birdcode }}.png">
+    {% endif %}
+
     {{ content }}
   </div>
 
