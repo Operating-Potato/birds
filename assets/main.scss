@@ -2,6 +2,7 @@
 ---
 
 @import "minima";
+@import url(styles/page-images.css);
 
 body {
     font-family: serif;
@@ -118,17 +119,6 @@ details[open] summary {
 
 #coolbird:hover {
     transform: rotate(360deg) scale(1.2);
-}
-
-.page-photo {
-    width: 300px;
-    float: right;
-    margin: 0 10px 10px 10px;
-    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
-}
-
-.left-image {
-    float: left !important;
 }
 
 .minibird {

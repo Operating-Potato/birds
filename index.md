@@ -70,6 +70,7 @@ ___
 ## Falcons {#falcons}
 
 ## Woodpeckers {#woodpeckers}
+* [Northern Flicker (*Colaptes aura*)](sp/woodpeckers/NOFL)
 
 ## Jays, Magpies, Crows, etc. {#crows}
 
@@ -84,9 +85,11 @@ ___
 - [Black-capped Chickadee (Poecile atricapillus)](sp/tits/BCCH)
 
 ## Nuthatches, Treecreepers, Wrens, & allies {#wrens}
+* [Brown Creeper (*Certhia americana*)](sp/wrens/BRCR)
 
 ## Thrushes {#thrushes}
 * [Grey-backed Thrush (*Turdus hortulorum*)](sp/thrushes/GBTH)
+* [American Robin (*Turdus migratorius*)](sp/thrushes/AMRO)
 
 ## Waxwings & allies {#waxwings}
 - [Bohemian Waxwing (*Bombycilla garrulus*)](sp/waxwings/BOWA)

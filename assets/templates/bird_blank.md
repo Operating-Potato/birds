@@ -1,8 +1,8 @@
 ---
 title:
+binomial_name:
 layout: species
 bird_category:
-binomial_name:
 birdcode:
 minibird_type:
 ---

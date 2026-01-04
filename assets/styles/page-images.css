@@ -1,0 +1,27 @@
+.page-photo {
+    width: 300px;
+    float: right;
+    margin: 0 10px 10px 10px;
+    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
+}
+
+.left-image {
+    float: left !important;
+}
+
+/*sizes (default is 300px; these specify otherwise.*/
+.size-small {
+    width: 150px;
+}
+.size-big {
+    width: 100%;
+}
+
+.caption-image {
+    box-shadow: none !important;
+    padding: 0;
+}
+.caption-image img {
+    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px !important;
+    margin-bottom: 5px;
+}

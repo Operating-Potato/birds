@@ -17,3 +17,5 @@ An extremely social bird that visits fruit-bearing shrubs en masse. Similar to C
 **Known whereabouts:** in winter, anywhere with a fruit supply. In summer, probably in boreal forest.
 
 **Seen in:** Wabanum
+
+![](/birds/assets/page-images/misc/BOWA_2.jpg)
