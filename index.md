@@ -70,7 +70,7 @@ ___
 ## Falcons {#falcons}
 
 ## Woodpeckers {#woodpeckers}
-* [Northern Flicker (*Colaptes aura*)](sp/woodpeckers/NOFL)
+* [Northern Flicker (*Colaptes auratus*)](sp/woodpeckers/NOFL)
 
 ## Jays, Magpies, Crows, etc. {#crows}
 

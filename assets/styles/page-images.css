@@ -20,8 +20,30 @@
 .caption-image {
     box-shadow: none !important;
     padding: 0;
+    height: fit-content !important;
+    box-sizing: border-box;
+    object-fit: contain !important;
+    font-style: italic;
 }
 .caption-image img {
+    width: 100%;
     box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px !important;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 600px) {
+    .page-photo {
+        width: 100%;
+        max-height: 300px;
+        object-fit: cover;
+        float: none;
+        margin: 10px 0 20px 0;
+    }
+    .full-height img {
+        max-height: 100%;
+    }
+    .caption-image {
+        max-height: fit-content;
+    }
 }
