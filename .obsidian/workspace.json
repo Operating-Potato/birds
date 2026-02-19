@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a4b2495405db834a",
+    "type": "split",
+    "children": [
+      {
+        "id": "432fd8545498f087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0971aa58828e9090",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "a10d0646f683cb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sp/crows/AWMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWMA"
+            }
+          },
+          {
+            "id": "1afd7fb167e8a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sp/swifts/COSW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COSW"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8fa1935c65a452a",
+    "type": "split",
+    "children": [
+      {
+        "id": "173f43fed175ba0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f557bb784239419e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29b2c3f65ec9d5c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16ff5d3740799aaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40e36705fad3c93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23ffef6652b3202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0babcdd5d638bf00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1a1b328da714fb7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4b89275814f0f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bd1d3da61d9ab449",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0971aa58828e9090",
+  "lastOpenFiles": [
+    "sp/crows/AWMA.md",
+    "sp/crows/BBMA.md",
+    "sp/wrens/RBNU.md",
+    "index.md",
+    "sp/swifts/COSW.md",
+    "assets/page-images/main/COSW.jpg.vMDCWn",
+    "_site/assets/page-images/main/COSW.jpg",
+    "assets/page-images/main/COSW.jpg",
+    "_site/sp/swifts/COSW.html",
+    "_site/sp/swifts/COSW.md",
+    "_site/sp/swifts",
+    "sp/swifts",
+    "sp/waxwings/BOWA.md",
+    "_site/assets/page-images/misc/RBNU-so-cool.png",
+    "assets/page-images/misc/RBNU-so-cool.png",
+    "assets/page-images/misc/RBNU-so-cool.png.part",
+    "sp/wrens/BRCR.md",
+    "sp/woodpeckers/NOFL.md",
+    "sp/tits/BCCH.md",
+    "sp/thrushes/GBTH.md",
+    "sp/thrushes/AMRO.md",
+    "sp/shorebirds/WILL.md",
+    "sp/pelicans/AWPE.md",
+    "sp/new-sparrows/DEJU.md",
+    "sp/gulls/RBGU.md",
+    "sp/gulls/HEGU.md",
+    "sp/finches/EVGR.md",
+    "_site/assets/main.css.map",
+    "_site/assets/page-images/misc/HEGU-juv.jpg",
+    "assets/page-images/misc/HEGU-juv.jpg",
+    "_site/assets/page-images/misc/HEGU.jpg",
+    "assets/page-images/misc/HEGU.jpg",
+    "_site/assets/page-images/main/HEGU.jpg",
+    "assets/page-images/main/HEGU.jpg",
+    "sp/waterfowl/MALL.md",
+    "_plugins",
+    "Gemfile.lock",
+    "_site/sp/gulls/HEGU.html",
+    "_site/HEGU.html",
+    "_site/HEEG.md",
+    "_site/Untitled.md",
+    "_site/sp/wrens/RBNU.md",
+    "_site/sp/wrens/Untitled.md"
+  ]
+}

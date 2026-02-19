@@ -8,7 +8,7 @@ birdcode: WILL
 
 First shorebird I ever saw; eats a lot of clams.
 
-__Appearance:__ large sandpiper. Wings are dark, with a thick white stripe in the middle across the entire length. Immature and nonbreeding adults are grayish with a white belly. Adults in breeding plumage apparently have a messy dark pattern, but I've never seen one so I can't comment much on that.
+__Appearance:__ large sandpiper. Wings are dark, with a thick white stripe in the middle across the entire length. Immature and nonbreeding adults are grayish with a white belly. *Adults in breeding plumage apparently have a messy dark pattern.*
 
 __Voice:__ haven't heard anything from these guys yet.
 

@@ -18,4 +18,4 @@ An extremely social bird that visits fruit-bearing shrubs en masse. Similar to C
 
 **Seen in:** Wabanum
 
-![](/birds/assets/page-images/misc/BOWA_2.jpg)
+![](/birds/assets/page-images/misc/BOWA_2.jpg){:.page-photo.size-big.full-height}

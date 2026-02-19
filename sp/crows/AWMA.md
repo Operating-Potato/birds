@@ -6,7 +6,7 @@ binomial_name: Cyanopica cyanus
 birdcode: AWMA
 ---
 
-Lively, neatly coloured, and bold, one of my favourite birds. Despite name, the Azure-winged and Iberian magpies are more related to the Canada Jay.
+Lively, neatly coloured, bold, and one of my favourite birds. Despite name, the Azure-winged and Iberian magpies are more related to the Canada Jay.
 
 __Appearance:__ medium sized, around the length of a small wireless keyboard. Black bill and upper head, giving the appearance of wearing a cap. Rest of head and rump are white, body is otherwise tan. Wings and long tail are a light blue.
 

@@ -20,5 +20,5 @@ Common thrush over much of North America. Often visits lawns.
 
 <div class="caption-image page-photo left-image max-height">
 	<img src="/birds/assets/page-images/misc/AMRO-2.jpg" alt="possibly leucistic robin?">
-	<p>This individual shows abnormally pale colouration.</p>
+	<p>This individual shows pale colouration.</p>
 </div>

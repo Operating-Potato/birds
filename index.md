@@ -48,6 +48,7 @@ ___
 ## Doves & Pigeons {#pigeons}
 
 ## Swifts and Hummingbirds  {#swifts}
+- [Common Swift (*Apus apus*)](sp/swifts/COSW)
 
 ## Rails {#rails}
 
@@ -56,6 +57,7 @@ ___
 
 ## Gulls, Terns, & Skimmers {#gulls}
 * [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU.html)
+* [Heermann's Gull (Larus heermannii)](sp/gulls/HEGU)
 
 
 ## Cormorants & Anhingas {#cormorants}
@@ -86,6 +88,7 @@ ___
 
 ## Nuthatches, Treecreepers, Wrens, & allies {#wrens}
 * [Brown Creeper (*Certhia americana*)](sp/wrens/BRCR)
+* [Red-breasted Nuthatch (_Sitta canadensis_)](sp/wrens/RBNU)
 
 ## Thrushes {#thrushes}
 * [Grey-backed Thrush (*Turdus hortulorum*)](sp/thrushes/GBTH)
@@ -108,3 +111,5 @@ ___
 
 ---
 <img src="/site_icon.jpg" style="width: 150px;" id="coolbird" alt="A picture of a magpie perched on a wire.">
+
+<sub>All photos, illustrations, and animations are by me. Please do not use without permission.</sub>
