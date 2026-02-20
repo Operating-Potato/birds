@@ -70,6 +70,7 @@ ___
 ## Vultures, Eagles, & Hawks {#hawks}
 
 ## Falcons {#falcons}
+- [Merlin (*Falco columbarius*)](sp/falcons/MERL)
 
 ## Woodpeckers {#woodpeckers}
 * [Northern Flicker (*Colaptes auratus*)](sp/woodpeckers/NOFL)

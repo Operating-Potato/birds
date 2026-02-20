@@ -11,7 +11,7 @@
 
 /*padding for rest of page*/
 .page-content {
-    --bottom-margin: 0px;
+    --bottom-margin: 20px;
     margin-left: 220px;
     margin-right: 20px;
 }
