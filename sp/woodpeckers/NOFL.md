@@ -5,8 +5,11 @@ layout: species
 bird_category: Woodpeckers
 birdcode: NOFL
 minibird_type:
+photo_format: jpg
 ---
-Common woodpecker with distinct yellow-shafted and red-shafted forms depending on geographic location*. Can be seen on the ground fairly often.
+Common woodpecker with distinct yellow-shafted and red-shafted forms depending on geographic location. Can be seen on the ground fairly often.
+
+<hr class="thin-line">
 
 **Appearance:** medium-large woodpecker with a round crestless head and prominent dark spots on belly. **YELLOW-SHAFTED**: red nape on back of head, black malar patch near beak, yellow feather shafts on remiges/retrices. ***RED-SHAFTED**: grey nape, red malar patch, orange-red feather shafts*.
 

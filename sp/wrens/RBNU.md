@@ -5,10 +5,13 @@ layout: species
 bird_category: Nuthatches, Treecreepers, Wrens, & Allies
 birdcode: RBNU
 minibird_type:
+photo_format: jpg
 ---
 The meep meep upside down bird (i love them very much because they are very wonderful)
 
 :)
+
+<hr class="thin-line">
 
 **Appearance:** small scansorial songbird, slate-grey above and reddish-orange on the bottom. Face is pale, with thick black streaks covering the eyes.
 
@@ -20,7 +23,7 @@ The meep meep upside down bird (i love them very much because they are very wond
 
 **Seen in:** Edmonton, Wabanum
 
-<div class="caption-image page-photo left-image">
+<div class="caption-image page-photo left-image max-height">
 	<img src="/birds/assets/page-images/misc/RBNU-so-cool.png">
-	<p>Nuthatches are capable of incredible feats of athleticism.</p>
+	<p class="caption">Nuthatches are capable of incredible feats of athleticism.</p>
 </div>

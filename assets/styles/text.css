@@ -1,0 +1,7 @@
+.caption {
+    font-size: smaller;
+}
+
+blockquote {
+    border-left: 4px solid light-dark(#DED6C4, #e8e8e8) !important;
+}

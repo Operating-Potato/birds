@@ -5,9 +5,12 @@ bird_category: Jays, magpies, crows, etc.
 binomial_name: Pica hudsonia
 birdcode: BBMA
 minibird_type: gif
+photo_format: jpg
 ---
 
 A relatively large, black-and-white passerine, commonly found in open areas with scattered trees. Very beautiful, but quite noisy in the morning.
+
+<hr class="thin-line">
 
 __Appearance:__ medium sized. Colouration is black and white overall, with iridescent wings and tail. Wings are short and broad, while retrices are ridiculously long, accounting for half of the bird's length.
 

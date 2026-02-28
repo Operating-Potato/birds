@@ -1,9 +1,8 @@
 ---
-title: Bird notes
+title: Bird Notes
 layout: page
 ---
-
-My personal accounts of all the bird species I have seen so far. New species will periodically be added.
+My personal accounts of all the bird species I have seen so far. New species will periodically be added. *Italicized* text indicates that the information is not from my own experience.
 
 ___
 
@@ -41,7 +40,8 @@ ___
 	</ul>
 </details>
 ## Waterfowl {#waterfowl}
-* [Mallard (*Anas platyrhynchos*)](sp/waterfowl/MALL.html)
+* [Mallard (*Anas platyrhynchos*)](sp/waterfowl/MALL)
+* [Canada Goose (*Branta canadensis*)](sp/waterfow/CANG)
 
 ## Gamefowl {#gamefowl}
 
@@ -51,21 +51,23 @@ ___
 - [Common Swift (*Apus apus*)](sp/swifts/COSW)
 
 ## Rails {#rails}
+- [American Coot (Fulica americana)](sp/rails/AMCO)
+- [Eurasian Coot (Fuliica atra)](sp/rails/EUCO)
 
 ## Shorebirds {#shorebirds}
-* [Willet (*Tringa semipalmata*)](sp/shorebirds/WILL.html)
+* [Willet (*Tringa semipalmata*)](sp/shorebirds/WILL)
 
 ## Gulls, Terns, & Skimmers {#gulls}
-* [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU.html)
+* [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU)
 * [Heermann's Gull (Larus heermannii)](sp/gulls/HEGU)
-
+* [Whiskered Tern (Chlidonias hybrida)](sp/gulls/WHTE)
 
 ## Cormorants & Anhingas {#cormorants}
 
 ## Egrets & Herons {#herons}
 
 ## Pelicans, Ibises, & allies {#pelicans}
-* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/pelicans/AWPE.html)
+* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/pelicans/AWPE)
 
 ## Vultures, Eagles, & Hawks {#hawks}
 
@@ -77,8 +79,10 @@ ___
 
 ## Jays, Magpies, Crows, etc. {#crows}
 
-* [Black-billed Magpie (*Pica hudsonia*)](sp/crows/BBMA.html)
-* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/crows/AWMA.html)
+* [Black-billed Magpie (*Pica hudsonia*)](sp/crows/BBMA)
+* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/crows/AWMA)
+* [Blue Jay (*Cyanocitta cristata*)](sp/crows/BLJA)
+* [Common Raven (*Corvus corax*)](sp/crows/CORA)
 
 ## Swallows {#swallows}
 
@@ -104,7 +108,7 @@ ___
 * [Evening Grosbeak (*Coccothraustes vespertinus*)](sp/finches/EVGR)
 
 ## New World Sparrows {#new-sparrows}
-* [Dark-eyed Junco (*Junco hyemalis*)](sp/new-sparrows/DEJU.html)
+* [Dark-eyed Junco (*Junco hyemalis*)](sp/new-sparrows/DEJU)
 
 ## Icterids {#blackbirds}
 

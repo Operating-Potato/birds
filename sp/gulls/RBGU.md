@@ -5,9 +5,12 @@ bird_category: Gulls, Terns, & Skimmers
 binomial_name: Larus delawarensis
 birdcode: RBGU
 minibird_type: gif
+photo_format: jpg
 ---
 
 Common summer resident of open fields and Walmart parking lots. Very numerous in central Alberta, though it migrates south in late fall and winter. Eats almost everything.
+
+<hr class="thin-line">
 
 __Appearance:__ small to medium-sized gull. Breeding adults are mostly white with long, light grey wings. Wingtips are black and have white spots. Has bright yellow legs and bill, the latter having a characteristic dark ring. Nonbreeding adults are similar, except for the brown streaks on head area.
 
@@ -18,3 +21,10 @@ __Behaviour:__ struts around confidently on the ground, often in large groups. F
 __Known whereabouts:__ Open areas, including fields, wetlands, and riverbanks. Can also be found near supermarkets and parking lots, or wherever else there are easy food sources.
 
 __Seen in:__ Edmonton, Calgary, Toronto, Niagara Falls
+
+<div class="caption-image left-image page-photo max-height size-halfpage">
+	<img alt="Three gulls flying, viewed from the front." src="/birds/assets/page-images/misc/RBGU-flight.jpg">
+	<p class="caption">The gulls shown in the above image were rapidly approaching discarded watermelon rinds in a school field.</p>
+</div>
+![](/birds/assets/page-images/misc/skidoo-gull.jpg){:.page-photo.left-image.size-halfpage}
+

@@ -4,10 +4,13 @@ bird_category: New World Sparrows
 binomial_name: Junco hyemalis
 layout: species
 birdcode: DEJU
+photo_format: jpg
+minibird_type:
 ---
 
 Small sparrow, also known as the snowbird. Runs around and eats seeds underneath spruce trees. Very adorable. 
 
+<hr class="thin-line">
 
 __Appearance:__ varies by region and subspecies, I usually see slate-coloured (gray with white belly). All forms exhibit light pink bill. Small, around the size of a House Sparrow.
 

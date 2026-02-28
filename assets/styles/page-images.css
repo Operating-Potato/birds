@@ -1,8 +1,10 @@
 .page-photo {
+    --margin-sides: 10px;
     width: 300px;
     float: right;
     margin: 0 10px 10px 10px;
     box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
+    box-sizing: border-box !important;
 }
 
 .left-image {
@@ -12,6 +14,9 @@
 /*sizes (default is 300px; these specify otherwise.*/
 .size-small {
     width: 150px;
+}
+.size-halfpage {
+    width: calc(50% - calc(var(--margin-sides) * 2));
 }
 .size-big {
     width: 100%;
@@ -26,7 +31,7 @@
     object-fit: contain !important;
     font-style: italic;
 }
-.caption-image img {
+.caption-image img, .caption-image video {
     width: 100%;
     box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px !important;
     margin-bottom: 10px;
@@ -39,7 +44,7 @@
         max-height: 300px;
         object-fit: cover;
         float: none;
-        margin: 10px 0 20px 0;
+        margin: 0px 0 20px 0;
     }
     .full-height img {
         max-height: 100%;

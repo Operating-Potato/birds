@@ -5,8 +5,11 @@ layout: species
 bird_category: Thrushes
 birdcode: AMRO
 minibird_type: gif
+photo_format: jpg
 ---
 Common thrush over much of North America. Often visits lawns.
+
+<hr class="thin-line">
 
 **Appearance:** large thrush, with a prominent rusty red underside, dark grey head, and light grey wings and back. A discontinuous white ring surrounds each eye. Has a round body and somewhat long tail.
 
@@ -20,5 +23,5 @@ Common thrush over much of North America. Often visits lawns.
 
 <div class="caption-image page-photo left-image max-height">
 	<img src="/birds/assets/page-images/misc/AMRO-2.jpg" alt="possibly leucistic robin?">
-	<p>This individual shows pale colouration.</p>
+	<p class="caption">This individual shows pale colouration.</p>
 </div>

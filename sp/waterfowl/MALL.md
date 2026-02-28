@@ -4,9 +4,12 @@ layout: species
 bird_category: Waterfowl
 binomial_name: Anas platyrhynchos
 birdcode: MALL
+photo_format: jpg
 ---
 
 One of the most recognizable wild ducks (particularly in the Northern Hemisphere), mallards are also the ancestors of most domestic ducks. I see them often whenever I go to a lake or pond.
+
+<hr class="thin-line">
 
 __Appearance:__ breeding males have shiny green heads, dark brown chests, gray body, and yellow bill. Females have a brown, mottled pattern and bill with black and orange spotches. Both have bright orange legs. Nonbreeding males are duller and have less extensive green on head.
 
@@ -20,4 +23,4 @@ __Seen in:__ Edmonton, Elk Island National Park, Calgary, Toronto, Welland,  Nia
 
 <br>
 
-*_Do not feed ducks bread; it is very unhealthy for them._
+\*_Do not feed ducks bread; it is very unhealthy for them._

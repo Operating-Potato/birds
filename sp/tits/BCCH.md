@@ -5,8 +5,11 @@ bird_category: Chickadees, Tits, & Titmice
 binomial_name: Poecile atricapillus
 birdcode: BCCH
 minibird_type:
+photo_format: jpg
 ---
 A common tit native to much of North America, the Black-capped Chickadee is very bold for its size. Often very round.
+
+<hr class="thin-line">
 
 **Appearance:** smaller than a House Sparrow, with a plump body and comparatively huge head. Overall grey, with a pale yellow belly, white cheek, and black cap and chin. Wing and tail feathers are slate-coloured and have white outlines.
 

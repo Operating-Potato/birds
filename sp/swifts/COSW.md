@@ -5,8 +5,11 @@ layout: species
 bird_category: Swifts & Hummingbirds
 birdcode: COSW
 minibird_type:
+photo_format: jpg
 ---
 Swift that is very… swift in flight. Holy canoli they're so fast…
+
+<hr class="thin-line">
 
 **Appearance:** mostly dark brownish-grey with a small, barely-noticeable white patch on the throat. Extremely long, curved wings give the bird a crescent-shaped profile in flight.
 

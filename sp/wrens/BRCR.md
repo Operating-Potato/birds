@@ -5,8 +5,11 @@ layout: species
 bird_category: Nuthatches, Treecreepers, Wrens, & Allies
 birdcode: BRCR
 minibird_type: gif
+photo_format: jpg
 ---
 Hard to see because it's small and brown and looks like tree bark. Climbs trees.
+
+<hr class="thin-line">
 
 **Appearance:** small songbird, with a curved bill and compact shape. Most of the plumage is mottled brown to camouflage with tree bark, while the underside is white.
 

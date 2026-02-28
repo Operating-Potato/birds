@@ -4,9 +4,12 @@ layout: species
 bird_category: Shorebirds
 binomial_name: Tringa semipalmata
 birdcode: WILL
+photo_format: jpg
 ---
 
 First shorebird I ever saw; eats a lot of clams.
+
+<hr class="thin-line">
 
 __Appearance:__ large sandpiper. Wings are dark, with a thick white stripe in the middle across the entire length. Immature and nonbreeding adults are grayish with a white belly. *Adults in breeding plumage apparently have a messy dark pattern.*
 
