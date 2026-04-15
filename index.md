@@ -13,7 +13,7 @@ ___
 	<summary>Table of Contents</summary>
 	<ul>
 		<li><a href="#waterfowl">Waterfowl</a></li>
-		<li><a href="#gamefowl">Gamefowl</a></li>
+		<li><a href="#chickens">Groundfowl</a></li>
 		<li><a href="#pigeons">Doves & Pigeons</a></li>
 		<li><a href="#swifts">Swifts & Hummingbirds</a></li>
 		<li><a href="#rails">Rails</a></li>
@@ -43,7 +43,7 @@ ___
 * [Mallard (*Anas platyrhynchos*)](sp/waterfowl/MALL)
 * [Canada Goose (*Branta canadensis*)](sp/waterfow/CANG)
 
-## Gamefowl {#gamefowl}
+## Groundfowl {#chickens}
 
 ## Doves & Pigeons {#pigeons}
 
