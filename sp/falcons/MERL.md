@@ -19,4 +19,4 @@ That bird that makes the kikikiki sound. It's a bit small.
 
 **Known whereabouts:** suburban parks, *forests, fields, scrubs, moors*
 
-**Seen in:** Edmonton
+**First seen in:** Edmonton

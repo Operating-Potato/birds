@@ -19,4 +19,4 @@ A common tit native to much of North America, the Black-capped Chickadee is very
 
 **Known whereabouts:** deciduous and coniferous forests, riparian areas, suburban and urban parks.
 
-**Seen in:** Edmonton, Calgary, Wabanum, Elk Island National Park
+**First seen in:** Edmonton

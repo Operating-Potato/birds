@@ -12,8 +12,9 @@ ___
 								">
 	<summary>Table of Contents</summary>
 	<ul>
-		<li><a href="#waterfowl">Waterfowl</a></li>
+		<li><a href="#ducks">Waterfowl</a></li>
 		<li><a href="#chickens">Groundfowl</a></li>
+		<li><a href="#grebes">Grebes</a></li>
 		<li><a href="#pigeons">Doves & Pigeons</a></li>
 		<li><a href="#swifts">Swifts & Hummingbirds</a></li>
 		<li><a href="#rails">Rails</a></li>
@@ -39,11 +40,14 @@ ___
 		<li><a href="#wood-warblers">Wood Warblers</a></li>
 	</ul>
 </details>
-## Waterfowl {#waterfowl}
+## Waterfowl {#ducks}
 * [Mallard (*Anas platyrhynchos*)](sp/waterfowl/MALL)
-* [Canada Goose (*Branta canadensis*)](sp/waterfow/CANG)
+* [Canada Goose (*Branta canadensis*)](sp/waterfowl/CANG)
 
 ## Groundfowl {#chickens}
+
+## Grebes {#grebes}
+- [Red-necked Grebe (*Podiceps grisegena*)](sp/grebes/RNGR)
 
 ## Doves & Pigeons {#pigeons}
 
@@ -62,9 +66,12 @@ ___
 * [Heermann's Gull (Larus heermannii)](sp/gulls/HEGU)
 * [Whiskered Tern (Chlidonias hybrida)](sp/gulls/WHTE)
 
+
 ## Cormorants & Anhingas {#cormorants}
 
 ## Egrets & Herons {#herons}
+- [Great Egret (*Ardea alba*)](sp/herons/GREG)
+- [Great Blue Heron (*Ardea herodias*)](sp/herons/GBHE)
 
 ## Pelicans, Ibises, & allies {#pelicans}
 * [American White Pelican (*Pelecanus erythrorhynchos*)](sp/pelicans/AWPE)
@@ -76,6 +83,7 @@ ___
 
 ## Woodpeckers {#woodpeckers}
 * [Northern Flicker (*Colaptes auratus*)](sp/woodpeckers/NOFL)
+* [Downy Woodpecker (*Dryobates pubescens*)](sp/woodpeckers/DOWO)
 
 ## Jays, Magpies, Crows, etc. {#crows}
 

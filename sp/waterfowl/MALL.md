@@ -6,7 +6,6 @@ binomial_name: Anas platyrhynchos
 birdcode: MALL
 photo_format: jpg
 ---
-
 One of the most recognizable wild ducks (particularly in the Northern Hemisphere), mallards are also the ancestors of most domestic ducks. I see them often whenever I go to a lake or pond.
 
 <hr class="thin-line">
@@ -19,8 +18,7 @@ __Behaviour:__ swims. Flaps quickly in flight. Social, and can be found with oth
 
 __Known whereabouts:__ Almost anywhere with a decent amount of water such as lakes, ponds, and rivers.
 
-__Seen in:__ Edmonton, Elk Island National Park, Calgary, Toronto, Welland,  Niagara Falls, Harbin, Anaheim
-
+__First seen in:__ Edmonton
 <br>
 
 \*_Do not feed ducks bread; it is very unhealthy for them._

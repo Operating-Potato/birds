@@ -19,7 +19,7 @@ Big crow. Has a cool beard. I see ravens more often in winter once the smaller c
 
 **Known whereabouts:** Forests, town/city outskirts, mountains, dumps
 
-**Seen in:** Edmonton, Banff, Improvement District No. 12
+**First seen in:** Edmonton
 
 <div class="caption-image page-photo left-image max-height">
 	<img alt="a raven flying with its wings spread." src="/birds/assets/page-images/misc/raven-flight.jpg">

@@ -21,7 +21,7 @@ The meep meep upside down bird (i love them very much because they are very wond
 
 **Known whereabouts:** near coniferous trees.
 
-**Seen in:** Edmonton, Wabanum
+**First seen in:** Edmonton, Wabanum
 
 <div class="caption-image page-photo left-image max-height">
 	<img src="/birds/assets/page-images/misc/RBNU-so-cool.png">

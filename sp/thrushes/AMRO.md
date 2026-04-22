@@ -19,7 +19,7 @@ Common thrush over much of North America. Often visits lawns.
 
 **Known whereabouts:** lawns, forests, parks. Somehow almost everywhere.
 
-**Seen in:** Edmonton, Calgary, Elk Island National Park
+**First seen in:** Edmonton
 
 <div class="caption-image page-photo left-image max-height">
 	<img src="/birds/assets/page-images/misc/AMRO-2.jpg" alt="possibly leucistic robin?">

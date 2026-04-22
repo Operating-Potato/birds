@@ -20,4 +20,4 @@ __Behaviour:__ hops, flees up into nearby canopy if approached.
 
 __Known wherabouts:__ places with tree cover, usually conifers, or thick shrubs and open ground near trees.
 
-__Seen in:__ Edmonton
+__First seen in:__ Edmonton

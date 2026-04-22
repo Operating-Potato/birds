@@ -6,7 +6,6 @@ binomial_name: Turdus hortulorum
 birdcode: GBTH
 photo_format: jpg
 ---
-
 A very melodious thrush. It looks vaguely like a robin, though I'd say all thrushes look like robins to some degree.
 
 <hr class="thin-line">
@@ -19,4 +18,4 @@ __Behaviour:__ can be seen singing loudly from a perch, or hopping on the ground
 
 __Known wherabouts:__ forests and parks.
 
-__Seen in:__ Harbin
+__First seen in:__ Harbin

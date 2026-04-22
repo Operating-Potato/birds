@@ -19,4 +19,4 @@ minibird_type:
 
 **Known whereabouts:** 
 
-**Seen in:** 
+**First seen in:** 

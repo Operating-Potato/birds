@@ -1,5 +1,8 @@
 {
   "newFileLocation": "current",
   "attachmentFolderPath": "/",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

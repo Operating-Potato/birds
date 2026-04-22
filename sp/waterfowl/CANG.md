@@ -19,7 +19,7 @@ North American goose of variable size. Has a reputation of being very menacing, 
 
 **Known whereabouts:** near water; ponds, wetlands, rivers, lakes. Also fields with grass and sidewalks.
 
-**Seen in:** Edmonton, Calgary, Wabanum
+**First seen in:** Edmonton
 
 <div class="caption-image page-photo max-height">
 	<img alt="A Canada Goose standing and facing the camera, while four of its goslings sit on the dirt to the side of the paved path.." src="/birds/assets/page-images/misc/happy-goose-family.jpg">

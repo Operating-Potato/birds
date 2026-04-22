@@ -19,7 +19,7 @@ Nearly identical to its New World counterpart. Stands by the edge of the water a
 
 **Known whereabouts:** near water such as ponds.
 
-**Seen in:** Harbin
+**First seen in:** Harbin
 
 <video class="page-photo left-image full-height" controls alt="a video of a coot preening itself, then shaking its feather vigorously.">
 	<source src="/birds/assets/page-images/misc/EUCO-preening.mp4" type="video/mp4">

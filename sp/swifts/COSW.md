@@ -19,4 +19,4 @@ Swift that is very… swift in flight. Holy canoli they're so fast…
 
 **Known whereabouts:** over fields and lakes
 
-**Seen in:** Beijing, Harbin
+**First seen in:** Beijing

@@ -6,7 +6,6 @@ binomial_name: Coccothraustes vespertinus
 birdcode: EVGR
 photo_format: jpg
 ---
-
 Large, big-billed finch with a striking colour. Very big bill. Very big green bill.
 
 <hr class="thin-line">

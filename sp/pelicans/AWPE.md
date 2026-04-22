@@ -18,4 +18,4 @@ __Behaviour:__ swims on the surface of the water, sometimes working cooperativel
 
 __Known whereabouts:__ bodies of water with fish in them, such as lakes and stormwater ponds.
 
-__Seen in:__ Edmonton
+__First seen in:__ Edmonton

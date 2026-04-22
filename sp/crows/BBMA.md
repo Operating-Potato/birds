@@ -20,4 +20,4 @@ __Behaviour:__ often seen walking on ground; primarily scavenges but is opportun
 
 __Known wherabouts:__ open habitats with scattered trees. Highly adaptable, magpies can be found in urban areas as well, such as parks, lawns, and parking lot dumpsters.
 
-__Seen in:__ Edmonton, Calgary
+__First seen in:__ Edmonton

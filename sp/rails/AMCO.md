@@ -19,4 +19,4 @@ Rail that swims with lobed feet, rather than webbed. Quite fun to watch as they 
 
 **Known whereabouts:** wetlands, lakes, and other vegetated open water
 
-**Seen in:** Edmonton, Wabanum
+**First seen in:** Edmonton

@@ -19,4 +19,4 @@ Common woodpecker with distinct yellow-shafted and red-shafted forms depending o
 
 **Known whereabouts:** mixed areas of trees and open ground.
 
-**Seen in:** Edmonton
+**First seen in:** Edmonton

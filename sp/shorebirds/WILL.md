@@ -19,4 +19,4 @@ __Behaviour:__  runs quickly along shoreline and mudflats, picking at invertebra
 
 __Known whereabouts:__ shores and mudflats.
 
-__Seen in:__ Carlsbad
+__First seen in:__ Carlsbad

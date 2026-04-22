@@ -19,7 +19,7 @@ Rambunctious little fellow; it is quite talkative and noisy. Common in woodland 
 
 **Known whereabouts:** deciduous woodlands, parks
 
-**Seen in:** Edmonton, Wabanum
+**First seen in:** Edmonton
 
 <div class="caption-image page-photo left-image max-height">
 	<img alt="photograph of a blue jay perched on a branch, viewed from below. A larger branch casts a shadow on most of the picture." src="/birds/assets/page-images/misc/from-the-under.jpg">

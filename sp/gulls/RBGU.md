@@ -7,7 +7,6 @@ birdcode: RBGU
 minibird_type: gif
 photo_format: jpg
 ---
-
 Common summer resident of open fields and Walmart parking lots. Very numerous in central Alberta, though it migrates south in late fall and winter. Eats almost everything.
 
 <hr class="thin-line">
@@ -20,7 +19,7 @@ __Behaviour:__ struts around confidently on the ground, often in large groups. F
 
 __Known whereabouts:__ Open areas, including fields, wetlands, and riverbanks. Can also be found near supermarkets and parking lots, or wherever else there are easy food sources.
 
-__Seen in:__ Edmonton, Calgary, Toronto, Niagara Falls
+__First seen in:__ Edmonton
 
 <div class="caption-image left-image page-photo max-height size-halfpage">
 	<img alt="Three gulls flying, viewed from the front." src="/birds/assets/page-images/misc/RBGU-flight.jpg">

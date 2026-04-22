@@ -19,7 +19,7 @@ Gradient-looking gull. Saw a juvenile once in California.
 
 **Known whereabouts:** near-shore environments
 
-**Seen in:** Laguna Beach
+**First seen in:** Laguna Beach
 
 <div class="caption-image page-photo max-height">
 	<img src="/birds/assets/page-images/misc/HEGU-juv.jpg" alt="juvenile Heermann's Gull">
