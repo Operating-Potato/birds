@@ -15,7 +15,7 @@ Tall. Big. Blue. Birders want them, fish fear them.
 
 **Voice:** haven't heard anything from these guys yet :/
 
-**Behaviour:** wades in search of smaller vertebrates, slowly stalking the water. Movements are painfully slow. Flies with head folded above neck.
+**Behaviour:** wades in search of smaller vertebrates, slowly stalking the water. Movements are very slow when wading. Flies with head folded above neck.
 
 **Known whereabouts:** wetlands
 
