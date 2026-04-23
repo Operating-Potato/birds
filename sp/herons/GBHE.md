@@ -4,7 +4,7 @@ binomial_name: Ardea herodias
 layout: species
 bird_category: Egrets & Herons
 birdcode: GBHE
-photo_format: jpg
+photo_format: JPG
 minibird_type:
 ---
 Tall. Big. Blue. Birders want them, fish fear them.
