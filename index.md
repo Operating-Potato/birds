@@ -118,7 +118,8 @@ ___
 ## New World Sparrows {#new-sparrows}
 * [Dark-eyed Junco (*Junco hyemalis*)](sp/new-sparrows/DEJU)
 
-## Icterids {#blackbirds}
+## New World Orioles & Blackbirds {#blackbirds}
+- [Common Grackle (*Quiscalus quiscula*)](sp/blackbirds/COGR)
 
 ## Wood Warblers {#wood-warblers}
 

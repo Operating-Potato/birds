@@ -1,0 +1,10 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "sp",
+      "templateName": "bird_blank"
+    }
+  ],
+  "disablePrompt": false,
+  "debug": false
+}
