@@ -5,6 +5,7 @@ bird_category: Jays, magpies, crows, etc.
 binomial_name: Cyanopica cyanus
 birdcode: AWMA
 photo_format: jpg
+minibird_type: png
 ---
 Lively, neatly coloured, bold, and one of my favourite birds. Despite name, the Azure-winged and Iberian magpies are more related to the Canada Jay.
 

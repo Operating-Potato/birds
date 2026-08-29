@@ -7,7 +7,7 @@ birdcode: COGR
 photo_format: jpg
 minibird_type:
 ---
-Fairly abundant blackbird. Noisy and charismatic, grackles often appear to be silly and mildly menacing. They may be considered an agricultural pest sometimes, but they have great defense lawyers and have won every single court case against them so far.
+Fairly abundant blackbird. Noisy and charismatic, grackles often appear to be silly and mildly menacing. They may be considered an agricultural pest at times due to damaging crops ~~but they have great defense lawyers and have won every single court case against them so far~~. 
 
 <hr class="thin-line">
 

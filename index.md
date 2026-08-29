@@ -2,7 +2,7 @@
 title: Bird Notes
 layout: page
 ---
-My personal accounts of all the bird species I have seen so far. New species will periodically be added. *Italicized* text indicates that the information is not from my own experience.
+My personal accounts of all the bird species I have seen so far. New species will periodically be added. *Italicized* text indicates that the information is not from my own experience and is instead sourced from external sources. 
 
 ___
 
@@ -63,11 +63,12 @@ ___
 
 ## Gulls, Terns, & Skimmers {#gulls}
 * [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU)
-* [Heermann's Gull (Larus heermannii)](sp/gulls/HEGU)
-* [Whiskered Tern (Chlidonias hybrida)](sp/gulls/WHTE)
+* [Heermann's Gull (*Larus heermannii*)](sp/gulls/HEGU)
+* [Whiskered Tern (*Chlidonias hybrida*)](sp/gulls/WHTE)
 
 
 ## Cormorants & Anhingas {#cormorants}
+- [Double-crested Cormorant (*Nannopterum auritum*)](sp/cormorants/DCCO)
 
 ## Egrets & Herons {#herons}
 - [Great Egret (*Ardea alba*)](sp/herons/GREG)
