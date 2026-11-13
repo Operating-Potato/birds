@@ -4,5 +4,6 @@
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

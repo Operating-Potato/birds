@@ -47,80 +47,80 @@ ___
 ## Groundfowl {#chickens}
 
 ## Grebes {#grebes}
-- [Red-necked Grebe (*Podiceps grisegena*)](sp/grebes/RNGR)
+- [Red-necked Grebe (*Podiceps grisegena*)](sp/RNGR.md)
 
 ## Doves & Pigeons {#pigeons}
 
 ## Swifts and Hummingbirds  {#swifts}
-- [Common Swift (*Apus apus*)](sp/swifts/COSW)
+- [Common Swift (*Apus apus*)](sp/COSW.md)
 
 ## Rails {#rails}
-- [American Coot (Fulica americana)](sp/rails/AMCO)
-- [Eurasian Coot (Fuliica atra)](sp/rails/EUCO)
+- [American Coot (Fulica americana)](sp/AMCO.md)
+- [Eurasian Coot (Fuliica atra)](sp/EUCO.md)
 
 ## Shorebirds {#shorebirds}
-* [Willet (*Tringa semipalmata*)](sp/shorebirds/WILL)
+* [Willet (*Tringa semipalmata*)](sp/WILL.md)
 
 ## Gulls, Terns, & Skimmers {#gulls}
-* [Ring-billed Gull (*Larus delawarensis*)](sp/gulls/RBGU)
-* [Heermann's Gull (*Larus heermannii*)](sp/gulls/HEGU)
-* [Whiskered Tern (*Chlidonias hybrida*)](sp/gulls/WHTE)
+* [Ring-billed Gull (*Larus delawarensis*)](sp/RBGU.md)
+* [Heermann's Gull (*Larus heermannii*)](sp/HEGU.md)
+* [Whiskered Tern (*Chlidonias hybrida*)](sp/WHTE.md)
 
 
 ## Cormorants & Anhingas {#cormorants}
-- [Double-crested Cormorant (*Nannopterum auritum*)](sp/cormorants/DCCO)
+- [Double-crested Cormorant (*Nannopterum auritum*)](sp/DCCO.md)
 
 ## Egrets & Herons {#herons}
-- [Great Egret (*Ardea alba*)](sp/herons/GREG)
-- [Great Blue Heron (*Ardea herodias*)](sp/herons/GBHE)
+- [Great Egret (*Ardea alba*)](sp/GREG.md)
+- [Great Blue Heron (*Ardea herodias*)](sp/GBHE.md)
 
 ## Pelicans, Ibises, & allies {#pelicans}
-* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/pelicans/AWPE)
+* [American White Pelican (*Pelecanus erythrorhynchos*)](sp/AWPE.md)
 
 ## Vultures, Eagles, & Hawks {#hawks}
 
 ## Falcons {#falcons}
-- [Merlin (*Falco columbarius*)](sp/falcons/MERL)
+- [Merlin (*Falco columbarius*)](sp/MERL.md)
 
 ## Woodpeckers {#woodpeckers}
-* [Northern Flicker (*Colaptes auratus*)](sp/woodpeckers/NOFL)
-* [Downy Woodpecker (*Dryobates pubescens*)](sp/woodpeckers/DOWO)
+* [Northern Flicker (*Colaptes auratus*)](sp/NOFL.md)
+* [Downy Woodpecker (*Dryobates pubescens*)](sp/DOWO.md)
 
 ## Jays, Magpies, Crows, etc. {#crows}
 
-* [Black-billed Magpie (*Pica hudsonia*)](sp/crows/BBMA)
-* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/crows/AWMA)
-* [Blue Jay (*Cyanocitta cristata*)](sp/crows/BLJA)
-* [Common Raven (*Corvus corax*)](sp/crows/CORA)
+* [Black-billed Magpie (*Pica hudsonia*)](sp/BBMA.md)
+* [Azure-winged Magpie (*Cyanopica cyanus*)](sp/AWMA.md)
+* [Blue Jay (*Cyanocitta cristata*)](sp/BLJA.md)
+* [Common Raven (*Corvus corax*)](sp/CORA.md)
 
 ## Swallows {#swallows}
 
 ## Bulbuls, Old World Babblers, & Laughingthrushes {#bulbuls}
 
 ## Chickadees, Tits, & Titmice {#tits}
-- [Black-capped Chickadee (Poecile atricapillus)](sp/tits/BCCH)
+- [Black-capped Chickadee (Poecile atricapillus)](sp/BCCH.md)
 
 ## Nuthatches, Treecreepers, Wrens, & allies {#wrens}
-* [Brown Creeper (*Certhia americana*)](sp/wrens/BRCR)
-* [Red-breasted Nuthatch (_Sitta canadensis_)](sp/wrens/RBNU)
+* [Brown Creeper (*Certhia americana*)](sp/BRCR.md)
+* [Red-breasted Nuthatch (_Sitta canadensis_)](sp/RBNU.md)
 
 ## Thrushes {#thrushes}
-* [Grey-backed Thrush (*Turdus hortulorum*)](sp/thrushes/GBTH)
-* [American Robin (*Turdus migratorius*)](sp/thrushes/AMRO)
+* [Grey-backed Thrush (*Turdus hortulorum*)](sp/GBTH.md)
+* [American Robin (*Turdus migratorius*)](sp/AMRO.md)
 
 ## Waxwings & allies {#waxwings}
-- [Bohemian Waxwing (*Bombycilla garrulus*)](sp/waxwings/BOWA)
+- [Bohemian Waxwing (*Bombycilla garrulus*)](sp/BOWA.md)
 
 ## Old World Sparrows {#old-sparrows}
 
 ## Finches & Euphonias {#finches}
-* [Evening Grosbeak (*Coccothraustes vespertinus*)](sp/finches/EVGR)
+* [Evening Grosbeak (*Coccothraustes vespertinus*)](sp/EVGR.md)
 
 ## New World Sparrows {#new-sparrows}
-* [Dark-eyed Junco (*Junco hyemalis*)](sp/new-sparrows/DEJU)
+* [Dark-eyed Junco (*Junco hyemalis*)](sp/DEJU.md)
 
 ## New World Orioles & Blackbirds {#blackbirds}
-- [Common Grackle (*Quiscalus quiscula*)](sp/blackbirds/COGR)
+- [Common Grackle (*Quiscalus quiscula*)](sp/COGR.md)
 
 ## Wood Warblers {#wood-warblers}
 
